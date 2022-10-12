@@ -13,7 +13,7 @@
 ##### ADDITIONAL SETTINGS   
 - settings.json (user):
     ```
-    "workbench.tree.indent": 40,
+    "workbench.tree.indent": 20,
     ```
 
 ##### SHORTCUTS        
