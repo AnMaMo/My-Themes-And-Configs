@@ -1,6 +1,7 @@
 ### VsCode Theme and Config
 
-##### FABORITE THEME
+##### THEMES
+- One Dark Ocean (favorite)
 - Github Dark
 
 ##### EXTENSIONS   
