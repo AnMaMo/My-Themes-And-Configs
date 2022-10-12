@@ -1,8 +1,7 @@
 ### VsCode Theme and Config
 
 ##### THEMES
-- One Dark Ocean (favorite)
-- Github Dark
+- Github Dark (favorite)
 
 ##### EXTENSIONS   
 - GitHub Copilot (AutoComplete)
@@ -14,7 +13,11 @@
 ##### ADDITIONAL SETTINGS   
 - settings.json (user):
     ```
+    "workbench.editor.tabCloseButton": "left",
+    "workbench.editor.decorations.colors": false,
     "workbench.tree.indent": 20,
+    "editor.fontFamily": "Dina",
+    "editor.fontSize": 15,
     ```
 
 ##### SHORTCUTS        
