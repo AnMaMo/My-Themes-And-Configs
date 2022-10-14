@@ -16,8 +16,6 @@
     "workbench.editor.tabCloseButton": "left",
     "workbench.editor.decorations.colors": false,
     "workbench.tree.indent": 20,
-    "editor.fontFamily": "Dina",
-    "editor.fontSize": 15,
     ```
 
 ##### SHORTCUTS        
